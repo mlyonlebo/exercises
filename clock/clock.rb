@@ -35,7 +35,3 @@ class Clock
     time_in_minutes == other.time_in_minutes
   end
 end
-
-#p Clock.at(10)
-# puts Clock.at(10, 37)
-# puts Clock.at(26, 13)
